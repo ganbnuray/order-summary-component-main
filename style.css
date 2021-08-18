@@ -50,7 +50,7 @@ box-shadow: 2px 23px 77px -18px rgba(114,128,167,0.1);
     text-align: center;
 }
 .text h1{
-    font-weight: 900;
+    font-weight: 700;
     color:var(--color5);
     padding-block-start:40px;
     padding-block-end:10px;
@@ -114,7 +114,7 @@ box-shadow: 2px 23px 77px -18px rgba(114,128,167,0.1);
 #payment,#cancel{
     height: 50px;
     border:none;
-    font-weight: 700;
+    font-weight: 500;
 }
 #payment{
     color:var(--color3);
