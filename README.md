@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-main-component-html5css3flexbox-and-grid-AGLMtTzo6](https://www.frontendmentor.io/solutions/order-summary-main-component-html5css3flexbox-and-grid-AGLMtTzo6)
+- Live Site URL: [https://ganbnuray.github.io/order-summary-component-main/](https://ganbnuray.github.io/order-summary-component-main/)
 
 ### Built with
 
