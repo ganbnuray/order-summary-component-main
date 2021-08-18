@@ -66,8 +66,8 @@ box-shadow: 2px 23px 77px -18px rgba(114,128,167,0.1);
 .plan{
     background-color: rgb(248,249,254);
     border-radius: 10px;
-    padding-block-start: 15px;
-    padding-block-end: 15px;
+    padding-block-start: 25px;
+    padding-block-end: 25px;
     margin-block-end:40px;
 }
 .plan .wrapper{
@@ -121,14 +121,14 @@ box-shadow: 2px 23px 77px -18px rgba(114,128,167,0.1);
     background-color: var(--color2);
     border-radius: 10px;
     margin-block-end:15px;
-box-shadow: 2px 21px 77px 12px rgba(0,0,0,0.14);
--webkit-box-shadow: 2px 21px 77px 12px rgba(0,0,0,0.14);
--moz-box-shadow: 2px 21px 77px 12px rgba(0,0,0,0.14);
+box-shadow: -1px 25px 95px -52px rgba(56,41,224,0.75);
+-webkit-box-shadow: -1px 25px 95px -52px rgba(56,41,224,0.75);
+-moz-box-shadow: -1px 25px 95px -52px rgba(56,41,224,0.75);
 }
 #cancel{
     background-color:transparent;
     color:var(--color4);
-    margin-bottom:20px;
+    margin-block-end:30px;
 }
 #payment:hover,.change p:hover{
     opacity:0.7;
